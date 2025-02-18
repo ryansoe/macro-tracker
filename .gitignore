@@ -1,0 +1,7 @@
+# Ignore Xcode-specific files
+.DS_Store
+*.xcuserdatad
+*.xcscmblueprint
+*.xcworkspace
+DerivedData/
+Build/
