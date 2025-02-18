@@ -7,8 +7,6 @@ Macro Tracker is a **SwiftUI-based iOS application** that helps users track thei
 
 The app ensures **data persistence** even after closing, and features an **intuitive UI with a smooth user experience.**  
 
----
-
 ## ✨ Features
 ✅ **Manual Entry of Macros** – Users can input carbs, protein, and fat per meal.  
 ✅ **Automatic Macro Summation** – Every meal entry adds to the total daily intake.  
@@ -19,8 +17,6 @@ The app ensures **data persistence** even after closing, and features an **intui
 ✅ **History Tracking** – Users can save daily macros and view past entries.  
 ✅ **Confirmation Pop-ups** – Prevents accidental macro updates or history deletions.  
 ✅ **Persistent Storage** – Macro data remains stored even after closing the app.  
-
----
 
 ## 📲 Installation & Setup
 
@@ -45,8 +41,6 @@ cd macro-tracker
 3.	Select your Apple ID and enable Development Signing.
 4.	Run the app on your device.
 
----
-
 ## 🛠 Technologies Used
 -	SwiftUI – Modern declarative UI framework
 -	VisionKit – Barcode scanning integration
@@ -54,8 +48,6 @@ cd macro-tracker
 -	UserDefaults – Persistent data storage
 -	AppStorage – Manages daily macro values
 -	MVVM Architecture – Ensures clean and modular code structure
-
----
 
 ## 📖 How It Works
 1.	Entering Macros: Users manually input and add meal macros to the daily total.
@@ -65,19 +57,13 @@ cd macro-tracker
 5.	Saving Daily Macros: Users can save their daily macro data and view their intake history.
 6.	History Management: Saved entries are persistent, and users can delete or clear history if needed.
 
----
-
 ## 🚀 Future Improvements
 🔹 Meal Pre-Logging for Future Days
 🔹 Custom Food Entries
 🔹 Apple Health Integration
 
----
-
 ## 📸 Screenshots
 (coming soon)
-
----
 
 ## 👨‍💻 Author
 Ryan Soe
