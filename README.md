@@ -69,5 +69,8 @@ cd macro-tracker
 
 ## 👨‍💻 Author
 Ryan Soe
+
 📍 GitHub: [github/ryansoe](https://github.com/ryansoe)
+
 📍 LinkedIn: [linkedin/ryansoe](https://www.linkedin.com/in/ryan-soe-2596b6309/)
+
