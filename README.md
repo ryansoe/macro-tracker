@@ -59,7 +59,9 @@ cd macro-tracker
 
 ## 🚀 Future Improvements
 🔹 Meal Pre-Logging for Future Days
+
 🔹 Custom Food Entries
+
 🔹 Apple Health Integration
 
 ## 📸 Screenshots
